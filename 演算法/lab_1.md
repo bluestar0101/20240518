@@ -41,5 +41,5 @@
 
 '''
 
-![lab_1.md](labs_1_1)
+![lab_1.md](labs_1_1.png)
 
